@@ -1,3 +1,7 @@
 body {
-    background-color: skyblue;
+    background-color: #f8f9fa;
+}
+
+.ne-hero {
+    min-height: 70vh;
 }
